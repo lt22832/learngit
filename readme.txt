@@ -1,6 +1,6 @@
 Git is a distributed version control system.
 Gis is a free software distributed under the GPL.
 Git has a mutable index called state.
-Git tracks changes of djdjdjdj files.
-Git tracks 12121212 of files.
+Git tracks changes of 898989 files.
+Git tracks 898989 of files.
 yes no ah yes111111.
